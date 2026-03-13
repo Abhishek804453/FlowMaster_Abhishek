@@ -1,0 +1,17 @@
+{
+    "name": "credit-service",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^5.2.1",
+        "kafkajs": "^2.2.4"
+    },
+    "description": "",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}

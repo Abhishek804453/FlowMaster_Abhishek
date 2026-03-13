@@ -1,0 +1,7 @@
+workflow:
+  - step: start_verification
+    event: start_verification
+    compensation_event: compensate_verification
+  - step: start_credit_check
+    event: start_credit_check
+    compensation_event: compensate_credit_check
